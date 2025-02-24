@@ -1,0 +1,19 @@
+.headingPrimary {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--color-primary);
+    margin-bottom: 15px;
+}
+
+.headingSecondary {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--color-secondary);
+    margin-bottom: 10px;
+}
+
+.text {
+    font-size: 1rem;
+    color: var(--color-text);
+    margin-bottom: 8px;
+}
